@@ -12,8 +12,8 @@
     type: 'line',
     data: {
       labels: [
-        'Dec',
         'Nov',
+        'Dec',
         'Jan',
         'Feb',
         'Mar'
