@@ -18,4 +18,4 @@
       width: 700
       }]
 
-    Plotly.newPlot('myDiv', data, layout)
+    Plotly.newPlot('myDivP', data, layout)
